@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mwendar
-- 👀 I’m interested in AI and blockchain
-- 🌱 I’m currently learning prolog 
-- 💞️ I’m looking to collaborate on app development
+- 👀 I’m interested in Data science,Machine learning,AI and blockchain
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me @mwendarv
 
 <!---
